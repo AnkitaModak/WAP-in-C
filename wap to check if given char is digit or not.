@@ -1,0 +1,9 @@
+#include <stdio.h>
+int main() {
+// character is digit or not
+    int a;
+    printf("Enter :");
+    scanf("%d", &a);
+    printf("%d \n",a < 9 && a >= 0);
+    return 0;
+}
