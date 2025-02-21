@@ -1,0 +1,11 @@
+#include <stdio.h>
+
+int main() {
+    int l,w;
+    printf("enter length ");
+    scanf("%d",&l);
+    printf("enter width ");
+    scanf("%d",&w);
+    printf("the perimeter is : %d", 2*(l+w));
+    return 0;
+}
