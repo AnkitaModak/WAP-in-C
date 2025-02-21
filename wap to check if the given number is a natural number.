@@ -1,0 +1,13 @@
+#include <stdio.h>
+int main() {
+    int num ;
+    printf("enter num :");
+    scanf("%d" ,&num);
+    if (num > 0) {
+        printf("this is a natural number");
+    }
+    else {
+        printf("this is not a natural number");
+    }
+    return 0 ;
+}
