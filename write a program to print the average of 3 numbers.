@@ -1,0 +1,14 @@
+#include <stdio.h>
+int main() {
+// avg between three numbers
+    int x,y,z;
+    printf("enter first num : ");
+    scanf("%d" , &x);
+    printf("enter second num : ");
+    scanf("%d" , &y);
+    printf("enter third num : ");
+    scanf("%d" , &z);
+    int avg = (x + y + z)/3;
+    printf("the average is %d \n",avg);
+    return 0;
+}
