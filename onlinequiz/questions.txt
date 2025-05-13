@@ -1,0 +1,100 @@
+1. What is the capital of Japan?
+2. Who wrote the play *Hamlet*?
+3. What is the smallest planet in our solar system?
+4. Which gas do plants absorb during photosynthesis?
+5. Who painted the *Mona Lisa*?
+6. What does DNA stand for?
+7. What is the boiling point of water in Celsius?
+8. Which element has the chemical symbol "O"?
+9. What is Newton's first law of motion?
+10. What does RAM stand for in computers?
+11. What is the square root of 144?
+12. What is the value of π (pi) to two decimal places?
+13. Solve: 2x + 5 = 15. What is x?
+14. What is the derivative of x²?
+15. Convert 0.75 into a fraction.
+16. Who was the first President of the United States?
+17. In which year did World War II end?
+18. What was the name of the ship that carried the Pilgrims to America in 1620?
+19. Which civilization built the pyramids in Egypt?
+20. What year did India gain independence?
+21. What is the longest river in the world?
+22. Which continent is the Sahara Desert located on?
+23. How many continents are there?
+24. What is the tallest mountain in the world?
+25. Which country has the most natural lakes?
+26. What does HTML stand for?
+27. What is the function of malloc() in C?
+28. What is an infinite loop in programming?
+29. Which data structure works on a "Last In, First Out" basis?
+30. What does "OOP" stand for in programming?
+31. What is the chemical formula for water?
+32. What is the process by which plants make their food?
+33. Who discovered gravity?
+34. What is the speed of light in vacuum?
+35. What are primary colors?
+36. Who invented the telephone?
+37. What is the capital of Australia?
+38. What is the largest ocean on Earth?
+39. What does CPU stand for?
+40. What is the powerhouse of the cell?
+41. Who discovered penicillin?
+42. What is the square of 8?
+43. What does AI stand for?
+44. What is the currency of the United Kingdom?
+45. Who wrote *Pride and Prejudice*?
+46. What is the atomic number of hydrogen?
+47. What is the formula for force in physics?
+48. What is the largest mammal in the world?
+49. How many bones are there in the human body?
+50. What is the capital city of Canada?
+51. What does HTTP stand for?
+52. What is the national animal of India?
+53. What year did man first land on the moon?
+54. Who was the first woman in space?
+55. What are the three states of matter?
+56. What is the longest-running animated TV show?
+57. What is the study of fossils called?
+58. Who invented the World Wide Web?
+59. How many players are there on a soccer team?
+60. What is the SI unit of temperature?
+61. What is the main ingredient in sushi?
+62. What is the largest desert in the world?
+63. What is the capital of France?
+64. How many hearts does an octopus have?
+65. What is the term for animals that eat both plants and meat?
+66. What is the national sport of Japan?
+67. What is the smallest country in the world?
+68. What does NASA stand for?
+69. What is the freezing point of water in Fahrenheit?
+70. Who painted the *Starry Night*?
+71. What is the fastest land animal?
+72. What is the term for a baby kangaroo?
+73. How many wings does a butterfly have?
+74. What is the rarest blood type?
+75. What is the capital of Germany?
+76. Who discovered electricity?
+77. What is the square root of 25?
+78. What gas is used in balloons to make them float?
+79. What is the name of the largest rainforest in the world?
+80. Who was the first person to climb Mount Everest?
+81. How many time zones does the world have?
+82. Who invented the light bulb?
+83. What is the hardest natural substance on Earth?
+84. What is the main ingredient in chocolate?
+85. How many legs does a spider have?
+86. What is the term for molten rock inside the Earth?
+87. What is the capital of Russia?
+88. Who invented the radio?
+89. How many stripes are there on the US flag?
+90. What is the study of insects called?
+91. Who wrote *The Odyssey*?
+92. What is the smallest bird in the world?
+93. What does Wi-Fi stand for?
+94. Who painted *The Last Supper*?
+95. What is the main gas in Earth's atmosphere?
+96. What does USB stand for?
+97. What is the largest planet in our solar system?
+98. Who was the first person in space?
+99. What are baby frogs called?
+100. How many months have 28 days?  
