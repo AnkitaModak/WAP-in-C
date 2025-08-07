@@ -2,7 +2,6 @@
 
 //this function helps in printing the array👇
 void print_array(int arr[100],int n){
-    printf("here is your beautiful array:\n");
     for(int i = 0;i<n ;i++){
         printf("%d ",arr[i]);
     }
@@ -14,6 +13,7 @@ void enter_array(int arr[100],int n){
         printf("enter the element of the array you wish to sort:");
         scanf("%d",&arr[i]);
     }
+    printf("here is your beautiful array:\n");
     print_array(arr,n);//prints the array as it is
 }
 //sorting in ascending order👇
