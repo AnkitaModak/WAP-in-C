@@ -8,8 +8,10 @@ char decrypt_char(char ch){
 int main(){
     FILE *input,*encrypt_file,*decrypt_file;
     int ch;
-  //ENCRYPTION👇👇👇👇👇
-    input = fopen("secret.txt","r");
+    char yourfile[100];
+    printf("enter the file you want to encrypt:");
+    scanf("%s",yourfile);
+    input = fopen(yourfile,"r");
     encrypt_file = fopen("encrypted.txt", "wb");
     if(input == NULL || encrypt_file == NULL){
         printf("Error opening file");
@@ -23,7 +25,6 @@ int main(){
     fclose(input);
 
     printf("Encryption complete. Output saved to 'encrypted.txt'.\n");
-  //DECRYPTION👇👇👇👇👇
     encrypt_file = fopen("encrypted.txt", "r");
     decrypt_file = fopen("decrypted.txt", "wb");
     if(encrypt_file == NULL || decrypt_file == NULL){
